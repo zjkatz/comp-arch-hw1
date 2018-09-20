@@ -1,4 +1,7 @@
-
+/*
+ * Jancy Capellan
+ * Zachary Katz
+ */
 
 public class MatrixMultiply {
     public static void main(String[] args) {
